@@ -8,3 +8,7 @@ adding this sentence to my attempt
 ``` javascript
 var myVar = "Hello, world!";
 ```
+# Task List
+- [x] List syntax is required
+- [x] This item is complete
+- [ ] This item is not complete
